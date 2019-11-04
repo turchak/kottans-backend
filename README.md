@@ -14,3 +14,14 @@
 Extra
 
 - [x] [Git за 30 хвилин](https://codeguida.com/post/453)
+
+## Unix Shell:
+
+- [ ] [Linux Survival (4 modules)](https://linuxsurvival.com/linux-tutorial-introduction/) 
+
+- [ ] Pass all Learning the Shell section on [Linuxcommand.org](http://linuxcommand.org/)
+
+<details>
+<summary>Overview</summary>
+  
+</details>
