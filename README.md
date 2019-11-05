@@ -17,7 +17,7 @@ Extra
 
 ## Unix Shell:
 
-- [ ] [Linux Survival (4 modules)](https://linuxsurvival.com/linux-tutorial-introduction/)
+- [x] [Linux Survival (4 modules)](https://linuxsurvival.com/linux-tutorial-introduction/)
 
 - [ ] Pass all Learning the Shell section on [Linuxcommand.org](http://linuxcommand.org/)
 
