@@ -8,7 +8,7 @@
 
 <details>
 <summary>Overview</summary>
-  Complete in FE course
+  Completed in FE course
 </details>
 
 Extra
